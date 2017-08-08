@@ -1,2 +1,2 @@
 # AbpTemplate
-ASP.NET Boilerplate Apply
+ASP.NET Boilerplate Template
